@@ -1,5 +1,5 @@
 # MythBusters
-Using data science, what myths will we find are plausible? Which will be busted? 
+#Using data science, what myths will we find are plausible? Which will be busted? 
 /#pleasedontsuemediscoverychannel
 
 I was reading a thread last night where people were discussing the myth that ancient humans only lived to be around 30 years old. I've heard this myth many times, and I think I may have even helped perpetuate it before I knew it was false. 
